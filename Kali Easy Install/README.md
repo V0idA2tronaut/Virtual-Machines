@@ -51,10 +51,10 @@ Após ligar a máquina virtual e selecionar o primeiro modo de instalação, voc
 
 > Particionando o disco
 
-![](disk.jpg)
-![](all_disks.jpg)
-![](yes.jpg)
-![](disk_final.jpg)
+![](disk.jpg)  
+![](all_disks.jpg)  
+![](yes.jpg)  
+![](disk_final.jpg)  
 
 > Escolhendo o ambiente
 
