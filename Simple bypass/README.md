@@ -40,7 +40,7 @@ Por fim, vamos voltar ao boot normal com o comando
 > ```bash
 > exec /sbin/init
 > ```
-![](bypass.linux.jpg)
+![](bypass_linux.jpg)
 
 Após, basta realizar login com a nova senha!
 
