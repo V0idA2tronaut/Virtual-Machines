@@ -7,7 +7,7 @@ Para este exemplo, estaremos utilizando o Kali Linux,
 
 ***
 
-**ACESSANDO O GRUB**
+**ACESSANDO O GRUB**  
 Quando aparecer a tela do GRUB, pressione a tecla ```e``` no menu de _boot_ padrão  
 Isso permite a edição dos parâmetros de inicialização do Kernel Linux  
 Encontre a linha que começa com _**linux /boot/vmlinuz... root=UUID=... ro quiet splash**_  
@@ -23,7 +23,7 @@ Vamos então ter um _root shell_ com **root@(none):/#**
 
 ***
 
-**REMONTANDO PARTIÇÃO COM ESCRITA**
+**REMONTANDO PARTIÇÃO COM ESCRITA**  
 Primeiro, vamos digitar o comando abaixo
 > ```bash
 > mount -o remount, rw /
